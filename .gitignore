@@ -120,9 +120,9 @@ $RECYCLE.BIN/
 *.lnk
 
 # 예외
-!root-context.xml
-!servlet-context.xml
-!web.xml
-!pom.xml
+# !root-context.xml
+# !servlet-context.xml
+# !web.xml
+# !pom.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
